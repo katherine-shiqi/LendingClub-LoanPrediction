@@ -1,3 +1,4 @@
 # LendingClub-LoanPrediction
 Select loans for lending club based on classification algorithms
-![]https://shiqili.shinyapps.io/lendingclub/
+The dashboard I built in R shiny App
+https://shiqili.shinyapps.io/lendingclub/
